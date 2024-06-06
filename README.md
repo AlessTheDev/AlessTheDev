@@ -10,8 +10,8 @@
   <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/unity.png" alt="Unity" width="100" height="auto">
   <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/supabase.png" alt="Supabase" width="100" height="auto">
   <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/postgres.png" alt="PostgreSQL" width="100" height="auto">
-  <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/html.png" alt="HTML" width="100" height="auto">
-  <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/css.png" alt="CSS" width="100" height="auto">
+  <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/_html.png" alt="HTML" width="100" height="auto">
+  <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/_css.png" alt="CSS" width="100" height="auto">
   <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/scss.png" alt="scss" width="100" height="auto">
   <img src="https://github.com/AlessTheDev/AlessTheDev/blob/main/react.png" alt="React" width="100" height="auto">
 </div>
